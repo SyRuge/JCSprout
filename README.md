@@ -65,6 +65,7 @@
 - [Spring AOP 的实现原理](https://github.com/crossoverJie/JCSprout/blob/master/MD/SpringAOP.md) 
 - [Guava 源码分析（Cache 原理）](https://crossoverjie.top/2018/06/13/guava/guava-cache/)
 - [轻量级 HTTP 框架](https://github.com/crossoverJie/cicada)
+- [Kakfa produce 源码分析](https://github.com/crossoverJie/JCSprout/blob/master/MD/kafka/kafka-product.md)
 - SpringBoot 启动过程
 - Tomcat 类加载机制
 
@@ -72,6 +73,7 @@
 ### 架构设计
 - [秒杀系统设计](https://github.com/crossoverJie/JCSprout/blob/master/MD/Spike.md)
 - [秒杀架构实践](http://crossoverjie.top/2018/05/07/ssm/SSM18-seconds-kill/)
+- [设计一个百万级的消息推送系统](https://github.com/crossoverJie/JCSprout/blob/master/MD/architecture-design/million-sms-push.md)
 
 ### DB 相关
 
